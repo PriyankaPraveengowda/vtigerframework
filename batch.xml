@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testngImplementation.CreateOrgWithIndustryAndTypeTest"/>
+      <class name="testngImplementation.CreateContactWithExistingOrgInfoTest"/>
+      <class name="testngImplementation.CreateNewOrganizationTest"/>
+      <class name="testngImplementation.DeleteLeadTest"/>
+      <class name="testngImplementation.CreateAndDuplicateLeadTest"/>
+      <class name="testngImplementation.CreateNewEventTest"/>
+      <class name="testngImplementation.CreateContactsTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17164" started-at="2023-05-19T12:27:23Z" finished-at="2023-05-19T12:27:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17164" started-at="2023-05-19T12:27:23Z" finished-at="2023-05-19T12:27:40Z">
+      <class name="testngImplementation.CreateNewOrganizationTest">
+        <test-method status="PASS" signature="classConfiguration()[pri:0, instance:testngImplementation.CreateNewOrganizationTest@47d90b9e]" name="classConfiguration" is-config="true" duration-ms="2970" started-at="2023-05-19T12:27:23Z" finished-at="2023-05-19T12:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classConfiguration -->
+        <test-method status="PASS" signature="methodConfiguration()[pri:0, instance:testngImplementation.CreateNewOrganizationTest@47d90b9e]" name="methodConfiguration" is-config="true" duration-ms="2555" started-at="2023-05-19T12:27:26Z" finished-at="2023-05-19T12:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodConfiguration -->
+        <test-method status="PASS" signature="createOrganizationTest()[pri:0, instance:testngImplementation.CreateNewOrganizationTest@47d90b9e]" name="createOrganizationTest" duration-ms="9328" started-at="2023-05-19T12:27:29Z" finished-at="2023-05-19T12:27:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationTest -->
+        <test-method status="PASS" signature="methodTearDown()[pri:0, instance:testngImplementation.CreateNewOrganizationTest@47d90b9e]" name="methodTearDown" is-config="true" duration-ms="1468" started-at="2023-05-19T12:27:38Z" finished-at="2023-05-19T12:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTearDown -->
+        <test-method status="PASS" signature="classTearDown()[pri:0, instance:testngImplementation.CreateNewOrganizationTest@47d90b9e]" name="classTearDown" is-config="true" duration-ms="650" started-at="2023-05-19T12:27:40Z" finished-at="2023-05-19T12:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+      </class> <!-- testngImplementation.CreateNewOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
